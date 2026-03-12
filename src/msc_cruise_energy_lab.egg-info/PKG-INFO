@@ -1,0 +1,49 @@
+Metadata-Version: 2.4
+Name: msc-cruise-energy-lab
+Version: 0.1.0
+Summary: Cruise vessel energy efficiency, emissions, and performance analytics lab
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: polars>=1.8.0
+Requires-Dist: duckdb>=1.1.0
+Requires-Dist: pyarrow>=17.0.0
+Requires-Dist: sqlalchemy>=2.0.0
+Requires-Dist: psycopg[binary]>=3.2.0
+Requires-Dist: pydantic>=2.8.0
+Requires-Dist: pydantic-settings>=2.4.0
+Requires-Dist: pyyaml>=6.0.2
+Requires-Dist: scikit-learn>=1.5.0
+Requires-Dist: fastapi>=0.115.0
+Requires-Dist: uvicorn>=0.30.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: loguru>=0.7.2
+Requires-Dist: typer>=0.12.5
+Requires-Dist: pytest>=8.3.0
+Requires-Dist: jupyter>=1.1.1
+
+# MSC Cruise Energy Lab
+
+A WSL-based project for learning cruise-vessel energy analytics, machine learning,
+forecasting, optimization, and reporting.
+
+## Core themes
+
+- fuel consumption analytics
+- hull and engine performance
+- SFOC
+- propulsive vs non-propulsive efficiency
+- shore power analytics
+- emissions and sustainability reporting
+- fleet-scale data engineering
+- Python + SQL + Power BI-ready outputs
+
+## Planned phases
+
+1. Foundation
+2. Synthetic cruise-fleet data generation
+3. Warehouse and SQL models
+4. KPI analytics
+5. Machine learning models
+6. Optimization and reporting
+7. API and dashboard exports
