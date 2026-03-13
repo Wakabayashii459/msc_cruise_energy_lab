@@ -1,4 +1,4 @@
-# MSC Cruise Energy Lab
+#  Energy Lab
 
 A WSL-based project for learning cruise-vessel energy analytics, machine learning,
 forecasting, optimization, and reporting.
